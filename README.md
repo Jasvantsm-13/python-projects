@@ -13,7 +13,7 @@ This repository contains my journey through the [100 Days of Code: The Complete 
 
 Each folder contains the project for a specific day.
 
-# Throughout this comprehensive course, we cover a massive amount of tools and technologies, including:
+# Throughout this comprehensive course, I cover a massive amount of tools and technologies, including:
 
     Python 3 - the latest version of Python
 
